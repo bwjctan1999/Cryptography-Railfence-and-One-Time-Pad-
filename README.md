@@ -1,2 +1,3 @@
 # Cryptography (Railfence and One Time Pad)
-Java code presenting the railfence and One Time Pad Cipher
+A File Encryptor and Decryptor that uses the classical ciphers Rail Fence and One-time Pad.
+
